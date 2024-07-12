@@ -1,4 +1,4 @@
-# Restaurant Management - Order Management System
+# drug store manage System
 
 ## Do all the following to run the project:
 
